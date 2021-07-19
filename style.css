@@ -26,3 +26,9 @@ body{
 .app:hover{
     transform: scale(1.01);
 }
+
+
+
+p{
+    font-size: 2em;
+}
